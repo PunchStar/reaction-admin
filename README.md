@@ -1,13 +1,5 @@
 # Reaction Admin
 
-[![Circle CI](https://circleci.com/gh/reactioncommerce/reaction-admin.svg?style=svg)](https://circleci.com/gh/reactioncommerce/reaction-admin) [![Gitter](https://badges.gitter.im/JoinChat.svg)](https://gitter.im/reactioncommerce/reaction?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-
-[Reaction](http://reactioncommerce.com) is an API-first, headless commerce platform built using Node.js, React, and GraphQL. It plays nicely with npm, Docker and Kubernetes.
-
-This project, Reaction Admin, is the user interface used by administrators and shop managers.
-
-![Reaction Admin](https://user-images.githubusercontent.com/20409254/61161477-bb033c80-a4b8-11e9-9c5e-4f4f6a68b8d0.png)
-
 # Getting started
 
 Follow the documentation to install Reaction with [Reaction Platform](https://docs.reactioncommerce.com/docs/installation-reaction-platform) for all supported operating systems.
@@ -53,19 +45,3 @@ We also request that you follow the our [pull request template](https://docs.rea
 
 Get more details in our [Contributing Guide](https://docs.reactioncommerce.com/docs/contributing-to-reaction).
 
-### Developer Certificate of Origin
-We use the [Developer Certificate of Origin (DCO)](https://developercertificate.org/) in lieu of a Contributor License Agreement for all contributions to Reaction Commerce open source projects. We request that contributors agree to the terms of the DCO and indicate that agreement by signing-off all commits made to Reaction Commerce projects by adding a line with your name and email address to every Git commit message contributed:
-```
-Signed-off-by: Jane Doe <jane.doe@example.com>
-```
-
-You can sign-off your commit automatically with Git by using `git commit -s` if you have your `user.name` and `user.email` set as part of your Git configuration.
-
-We ask that you use your real full name (please no anonymous contributions or pseudonyms) and a real email address. By signing-off your commit you are certifying that you have the right to submit it under the [GNU GPLv3 Licensed](./LICENSE.md).
-
-We use the [Probot DCO GitHub app](https://github.com/apps/dco) to check for DCO sign-offs of every commit.
-
-If you forget to sign-off your commits, the DCO bot will remind you and give you detailed instructions for how to amend your commits to add a signature.
-
-### License
-Reaction Admin is [GNU GPLv3 Licensed](./LICENSE.md)
